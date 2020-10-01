@@ -35,11 +35,13 @@ Blockquote:
 >Blockquote
 
 Bold :
+
 **Bold Sentence**
 
 Strikethrough:
 --------------
---The world is flat.--
+
+~~The world is flat.~~
 
 Image:
 ------
@@ -48,13 +50,17 @@ Image:
 Task List:
 ----------
 -[x] Write the press release
+
 -[] Update the website
 
 Link:
 -----
+
 [title](http://rostockerlabs.com)
 
 Footnote:
-Here is a sentence with a footnote.[^1]
+
+Here is a sentence with a footnote.
+
 [^1]: This is the foot note
 
