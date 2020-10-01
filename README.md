@@ -3,7 +3,6 @@ Installation
 
 ```
 pip install -r requirements.txt
-
 ```
 
 Setup
@@ -13,7 +12,6 @@ Setup
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-
 ```
 
 # Heading 1
@@ -26,12 +24,14 @@ python manage.py runserver
 
 Italic:
 -------
+
 *Italic Sentence*
 
 Blockquote:
 -----------
 
 >Blockquote
+
 >Blockquote
 
 Bold :
